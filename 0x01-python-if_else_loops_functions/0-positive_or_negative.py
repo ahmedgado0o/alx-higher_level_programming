@@ -5,5 +5,5 @@ if number > 0:
     print("{} is greater than 0".format(number))
 elif number == 0:
     print("{} is 0".format(number))
-else
+else:
     print("{} is less than 0".format(number))
